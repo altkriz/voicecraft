@@ -2,7 +2,7 @@
 
 **VoiceCraft** is a simple, elegant web application that converts user input into natural-sounding speech using AI-powered voice models from Pollinations. Built in PHP and JavaScript, the app offers seamless voice selection and instant MP3 audio playback/download — all in your browser.
 
-🌐 Live Demo: [https://kriztech.in/bots/voice](https://kriztech.in/voicecraft)  
+🌐 Live Demo: [https://kriztech.in/voicecraft](https://kriztech.in/voicecraft)  
 👨‍💻 Created by: [Kriztech](https://kriztech.in)  
 🤖 Powered by: [Pollinations AI](https://pollinations.ai)
 
